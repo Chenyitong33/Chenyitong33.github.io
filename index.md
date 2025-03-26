@@ -8,7 +8,7 @@ Research Interests: NIRS, Maching Learning, Computer Graphics and Interaction.
 
 Email: 18063877076@163.com
 
-Wechat: Old_Bucket
+Wechat: one-Bucket
 
 Related Links: [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
 
