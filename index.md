@@ -1,4 +1,4 @@
-# Welcome! - Yitong's Homepage
+# Welcome!
 
 Hi, I'm Yitong Chen. Since 2025, I've been serving as a computer science lecturer at Zhuhai College of Science and Technology, where I teach and conduct research at the intersection of data science and practical applications.
 
@@ -15,5 +15,5 @@ I’m always open to discussions on data mining, NIRS applications or potential 
 
 Personal Email: 18063877076@163.com / 349479060@qq.com
 WeChat: one-Bucket
-Linked Links: [Linkedin](https://www.linkedin.com/in/%E6%80%A1%E6%A1%90-%E9%99%88-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
+Linked Links: [Linkedin](https://www.linkedin.com/in/yitong-chen-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
 
