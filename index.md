@@ -3,7 +3,7 @@
   <img src="./Visa photo.jpg" alt="Yitong's photo" width="200" style="border-radius: 50%;">
 </div>
 
-Hi, I'm Yitong Chen. Since 2025, I've been serving as a computer science lecturer at Zhuhai College of Science and Technology, where I teach and conduct research at the intersection of data science and practical applications.
+Hi, I'm Yitong Chen. 
 
 ## Professional Experience
 From 2021 to 2024, I worked as a data mining engineer at Zhejiang Lab. During this period, I led and participated in projects related to Research on intelligent social governance, resulting in below published studies:
