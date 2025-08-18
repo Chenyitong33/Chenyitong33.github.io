@@ -1,4 +1,5 @@
 # Welcome!
+![Image](./Visa photo.jpg)
 
 Hi, I'm Yitong Chen. Since 2025, I've been serving as a computer science lecturer at Zhuhai College of Science and Technology, where I teach and conduct research at the intersection of data science and practical applications.
 
