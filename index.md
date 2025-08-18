@@ -8,7 +8,7 @@ From 2021 to 2024, I worked as a data mining engineer at Zhejiang Lab. During th
 - The Performance Evaluation of the "River Chief System" on Comprehensive Pollution Control in the River Basin——Taking Some River Sections of Zhejiang Province in the Taihu Lake Basin as an Example([CNKI: Link](https://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2023&filename=JSHU202212001004&uniplatform=OVERSEA&v=XEMA8ujfsn5GcTu2rq3QSLn6Yd3mQRfQCSJh50GkPxbFo45pmpJvURCNnQ9cpHPBfp9bPnwEUxU%3d))
 
 ## Academic Background
-I have graduated from the University of Melbourne in 2019. My master’s research focused on Near-Infrared Spectroscopy (NIRS) with my supervisor [Vassilis Kostakos](http://people.eng.unimelb.edu.au/vkostakos/), based in the [SocialNUI Lab](http://socialnui.unimelb.edu.au/). Our [work](https://smarthospital.research.unimelb.edu.au/smart-pillbox/) is published here [Application of miniaturized near-infrared spectroscopy in pharmaceutical identification](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300180).
+I have graduated from the University of Melbourne in 2019. My master’s research focused on Near-Infrared Spectroscopy (NIRS) with my supervisor [Vassilis Kostakos](https://www.kostakos.org/). Our [work](https://smarthospital.research.unimelb.edu.au/smart-pillbox/) is published here [Application of miniaturized near-infrared spectroscopy in pharmaceutical identification](https://www.sciencedirect.com/science/article/abs/pii/S2352648320300180).
 
 ## Let’s Connect!
 I’m always open to discussions on data mining, NIRS applications or potential collaborations. Feel free to reach out:
