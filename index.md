@@ -16,7 +16,7 @@ I have graduated from the University of Melbourne in 2019. My master’s researc
 ## Let’s Connect!
 I’m always open to discussions on data mining, NIRS applications or potential collaborations. Feel free to reach out:
 
-Personal Email: 18063877076@163.com / 349479060@qq.com
-WeChat: one-Bucket
+Personal Email: 18063877076@163.com / 349479060@qq.com<br>
+WeChat ID: one-Bucket<br>
 Linked Links: [Linkedin](https://www.linkedin.com/in/yitong-chen-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
 
