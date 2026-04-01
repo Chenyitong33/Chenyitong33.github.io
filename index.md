@@ -3,6 +3,8 @@
   <img src="./Visa photo.jpg" alt="Yitong's photo" width="200" style="border-radius: 50%;">
 </div>
 
+
+
 Hi, I'm Yitong Chen. 
 
 ## Professional Experience
@@ -16,7 +18,7 @@ I have graduated from the University of Melbourne in 2019. My master’s researc
 I enrolled in the PhD program at the University of Minho, Portugal in the 2025/2026 academic year, under the joint supervision of [Adriano José Conceição Tavares](https://algoritmi.uminho.pt/user/adriano-jose-conceicao-tavares/), [Carlos S. Lima](https://www.cmems.uminho.pt/people/carlos-s-lima/) and [Yanchun Liang](https://ccst.jlu.edu.cn/info/1196/17215.htm). My ongoing research continues to focus on machine learning and Near-Infrared Spectroscopy (NIRS).
 
 ## Let’s Connect!
-I’m always open to discussions on data mining, NIRS applications or potential collaborations. Feel free to reach out:
+I’m always open to discussions on potential collaborations. Feel free to reach out:
 
 Personal Email: 18063877076@163.com<br>
 Linked Links: [Linkedin](https://www.linkedin.com/in/yitong-chen-34866b133/) \| [CSDN](https://blog.csdn.net/qq_24587185)
