@@ -2,9 +2,8 @@
 <div style="text-align: center;">
   <img src="./Visa photo.jpg" alt="Yitong's photo" width="200" style="border-radius: 50%;">
 </div>
-
-
-
+<br>
+<br>
 Hi, I'm Yitong Chen. 
 
 ## Professional Experience
